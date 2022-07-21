@@ -1,0 +1,10 @@
+name: Mc-1
+version: 1.0
+author: nimainer
+main: main.Main
+api-version: 1.19
+commands: 
+  feed:
+    description: feeds you  
+    usage: /<command>  
+      
